@@ -3,8 +3,8 @@
 Kalo Mau Recode Kasih Credit gw ›
 TheZetsubXygen / Ryo
 
-📝 > Created By PATRON 🚹
-🖥️ > Base Ori By BLUE DEMON
+📝 > Created By DADDY IGWETECH 🚹
+🖥️ > Base Ori By IGWETECH 
                
 */
 const {
@@ -644,7 +644,7 @@ module.exports =
           if (new Date() * 1 - setting.status > 1000) {
             let uptime = await runtime(process.uptime());
             await ryozingod.updateProfileStatus(
-              `✳️ PATRON-V1🟦- Client By : PATRON 🚹 & 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽| ✅ Runtime : ${uptime}`
+              `✳🦕 𝙴𝚁𝚁𝙾𝚁-𝚅1 𝙲𝚁𝙴𝙰𝙴𝙳 𝙱𝚈 𝙸𝙶𝚆𝙴 𝚃𝙴𝙲𝙷 𝙸𝙽𝙲| 𝙳𝚄𝚁𝙰𝚃𝙸𝙾𝙽 Runtime : ${uptime}`
             );
             setting.status = new Date() * 1;
           }
@@ -798,10 +798,10 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
                 title: "",
               },
               body: {
-                text: "▾ PATRON-V1-BUG ▾",
+                text: "▾ 𝔼ℝℝ𝕆ℝ-V1-BUG ▾",
               },
               footer: {
-                text: "By - PATRON 🚹 & 𝙱𝙻𝚄𝙴 🌀 𝙳𝙴𝙼𝙾𝙽 ",
+                text: "By - 𝙿𝙰𝙿𝙰 𝙸𝙶𝚆𝙴 & 𝙸𝙶𝚆𝙴 𝚃𝙴𝙲𝙷",
               },
               nativeFlowMessage: {
                 messageParamsJson: "".repeat(900000),
@@ -881,14 +881,14 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
           message: {
             eventMessage: {
               isCanceled: false,
-              name: "🌠 PATRON-V1-BUG - Multi Device",
+              name: "🌠 𝙴𝚁𝚁𝙾𝚁-V1-BUG - Multi Device",
               description: "Pe",
               location: {
                 degreesLatitude: 0,
                 degreesLongitude: 0,
                 name: "Apakajajanabs",
               },
-              joinLink: "https://whatsapp.com/channel/0029Val0s0rIt5rsIDPCoD2q",
+              joinLink: "https://whatsapp.com/channel/0029VartOqACMY0OUI2n350j",
               startTime: "1713724680",
             },
           },
@@ -955,7 +955,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
           },
           message: {
             listResponseMessage: {
-              title: `pois0n - PATRON 🚹`,
+              title: `DEAD-•×• ERROR-V1`,
             },
           },
         };
@@ -971,7 +971,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
           },
           message: {
             buttonsResponseMessage: {
-              selectedButtonId: "pois0n - PATRON 🚹",
+              selectedButtonId: "DEAD •×• ERROR-V1",
               type: 1,
               response: {
                 selectedDisplayText: "penis",
@@ -994,7 +994,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
               newsletterJid: `120363224727390375@newsletter`,
               newsletterName: `🔥`,
               jpegThumbnail: fakejpg,
-              caption: ` 𝙱𝙻𝚄𝙴 𝙳𝙴𝙼𝙾𝙽👽 \n ⿻ ${m.body || m.mtype} `,
+              caption: ` 𝙳𝙰𝙳𝙳𝚈-𝙸𝙶𝚆𝙴👽 \n ⿻ ${m.body || m.mtype} `,
               inviteExpiration: Date.now() + 1814400000,
             },
           },
@@ -1076,7 +1076,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
           message: {
             extendedTextMessage: {
               text: `🖥️༐✲ 𝐌𝐬𝐠 𒑊 ${m.body || m.mtype}`,
-              title: `▾  PATRON 🚹 ▾`,
+              title: `▾  𝙴𝚁𝚁𝙾𝚁 × ▾`,
               jpegThumbnail: fakejpg,
             },
           },
@@ -1237,7 +1237,7 @@ ryozingod.sendPresenceUpdate(jd, m.chat)
                 externalAdReply: {
                   showAdAttribution: false,
                   renderLargerThumbnail: false,
-                  title: `© PATRON BUG 1.0.0`,
+                  title: `© 𝕰𝕽𝕽𝕺𝕽_𝖁1 1.0.0`,
                   body: `${ucapanWaktu} ${m.pushName} 👋`,
                   previewType: "VIDEO",
                   thumbnail: nulll,
